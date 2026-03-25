@@ -1,4 +1,4 @@
-# AnnotatedPages — Xournal++ Plugin
+# xournalpp-Annotated — Xournal++ Plugin
 
 提取当前文档中所有**有批注页面的页码**，自动合并为范围字符串（如 `1-3,5,7-9`），并**一键写入剪贴板**。
 
@@ -7,19 +7,19 @@
 ## 安装方法
 
 ### Windows
-将整个 `AnnotatedPages` 文件夹复制到：
+将整个 `xournalpp-Annotated` 文件夹复制到：
 ```
 C:\Users\<你的用户名>\AppData\Local\xournalpp\plugins\
 ```
 
 ### Linux
 ```bash
-cp -r AnnotatedPages ~/.config/xournalpp/plugins/
+cp -r xournalpp-Annotated ~/.config/xournalpp/plugins/
 ```
 
 ### macOS
 ```bash
-cp -r AnnotatedPages ~/Library/Application\ Support/xournalpp/plugins/
+cp -r xournalpp-Annotated ~/Library/Application\ Support/xournalpp/plugins/
 ```
 
 ---
